@@ -19,9 +19,8 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="https://github.com/Rocketseat/bootcamp-gostack-desafio-01#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Rocketseat/bootcamp-gostack-desafio-01#memo-licen%C3%A7a">Licença</a>
 </p>
 
 ## :rocket: Sobre o desafio
