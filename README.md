@@ -16,10 +16,6 @@
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
-
-  <a href="https://github.com/Rocketseat/bootcamp-gostack-desafio-01/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/rocketseat/bootcamp-gostack-desafio-01?style=social">
-  </a>
 </p>
 
 <p align="center">
@@ -30,7 +26,7 @@
 
 ## :rocket: Sobre o desafio
 
-Crie uma aplicação para armazenar projetos e suas tarefas do zero utilizando [Express](https://expressjs.com/pt-br/).
+Foi criado uma aplicação (API Only) para armazenar projetos e suas tarefas do zero utilizando [Express](https://expressjs.com/pt-br/).
 
 ### Rotas
 
@@ -46,7 +42,7 @@ Crie uma aplicação para armazenar projetos e suas tarefas do zero utilizando [
 
 - `DELETE /projects/:id/tasks`: A rota deve receber um campo `title` e remover uma tarefa no array de tarefas de um projeto específico escolhido através do `id` presente nos parâmetros da rota;
 
-Existe um arquivo insomnia.json com todos os exemplos de requisições HTTP
+Existe um arquivo Insomnia_2020-02-19.json com todos os exemplos de requisições HTTP
 
 ### Middlewares
 
